@@ -6,6 +6,8 @@
 
 ![在线演示](https://img.shields.io/badge/在线演示-l.lrbilool.kdns.fr-e8c268?style=for-the-badge)
 
+[![进入我的个人网站](https://img.shields.io/badge/👉_点击进入-我的个人网站-e8c268?style=for-the-badge)](https://l.lrbilool.kdns.fr/)
+
 ## ✨ 特点
 
 - 🆓 **全免费**：跑在 Cloudflare Workers 免费版上，无服务器、无数据库
@@ -153,6 +155,14 @@ wrangler deploy
 - **部署报大小超限？** 免费版的限制看的是压缩后大小（1 MB），base64 文本压缩率很高，一般不会触线。
 - **部署后还是旧内容？** 缓存还没过期，等 5 分钟或用无痕窗口。
 
+## 🔗 我的其他项目
+
+- 🤖 [Awesome Telegram Bots CN](https://github.com/Armorys/awesome-telegram-bots-cn) —— 中文 Telegram 机器人精选清单（主项目，持续更新）
+- 🧠 [Awesome Telegram Bots AI](https://github.com/Armorys/awesome-telegram-bots-ai) —— AI 机器人专题清单
+- 📍 [WLOC · iOS 虚拟定位](https://github.com/Armorys/wloc-ios-virtual-location) —— iOS 虚拟定位模块与教程
+
+更多入口都汇总在我的个人网站里：[https://l.lrbilool.kdns.fr/](https://l.lrbilool.kdns.fr/)
+
 ## ⭐ 九、成品与作者
 
 > 🌐 **个人网站：[https://l.lrbilool.kdns.fr/](https://l.lrbilool.kdns.fr/)** —— 本教程的成品，机器人和全部链接都在里面，欢迎来逛。
@@ -165,4 +175,4 @@ wrangler deploy
 
 ## English Summary
 
-A single-page personal navigation site with a live 3D robot (Three.js / WebGL, four switchable animations) and a frosted-glass link panel. The whole page is embedded into one Cloudflare Worker script (base64) and served on a custom domain — free tier, no backend, no database. **Live demo (my personal website): [https://l.lrbilool.kdns.fr/](https://l.lrbilool.kdns.fr/)**
+How to build a personal navigation website (link-in-bio page) with a live 3D robot: a single-page Three.js / WebGL site with four switchable character animations and a frosted-glass link panel, embedded into one Cloudflare Worker script (base64) and served on a custom domain — free tier, no backend, no database. A lightweight alternative to Linktree-style pages and a fun portfolio / personal homepage template idea. **Live demo (my personal website): [https://l.lrbilool.kdns.fr/](https://l.lrbilool.kdns.fr/)**
